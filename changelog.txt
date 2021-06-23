@@ -1,0 +1,2 @@
+fixed handling of regular expressions and spaces in filenames on the merge tab
+added initial version of video conversion tab
